@@ -1,0 +1,29 @@
+.transactionHistory {
+  width: 720px;
+  margin: 32px auto;
+  padding: 32px;
+  background-color: #fdfdfd;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.row {
+  background: #e6e6e6;
+}
+
+.row:nth-child(2n) {
+  background-color: #f6f6f6;
+}
+
+.header {
+  height: 48px;
+  font-weight: 900;
+  color: #ffffff;
+  background-color: #2980b9;
+  text-transform: uppercase;
+}
+
+.cell {
+  margin: 8px;
+  padding: 8px;
+  color: #4a4a4a;
+}
